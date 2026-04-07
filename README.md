@@ -1,2 +1,2 @@
 # MSE-Lab
-MSE-Lab for the Assignment Microembede Systems | CETYS Universidad
+MSE-Lab for the Assignment Microembedded Systems | CETYS Universidad
